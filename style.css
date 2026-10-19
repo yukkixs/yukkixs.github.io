@@ -36,3 +36,20 @@ img {
     display: none;
     margin: auto;
 }
+.player {
+    background-color: #211b35;
+    color: white;
+    padding: 20px;
+    border-radius: 15px;
+    width: 220px;
+    text-align: center;
+}
+
+#botao {
+    background-color: #a78bfa;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    cursor: pointer;
+}
